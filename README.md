@@ -83,7 +83,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Muhammad-Aman171/Muhammad-Aman171/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/Muhammad-Aman1718/Muhammad-Aman1718/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
 
