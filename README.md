@@ -115,7 +115,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <br>
@@ -164,8 +164,7 @@ class MuhammadAman {
       frontend: ["React.js", "Next.js", "Vue.js", "HTML5", "CSS3", "Tailwind"],
       backend: ["Node.js", "Express", "Django", "FastAPI", "REST APIs"],
       database: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
-      tools: ["Git", "Docker", "AWS", "Linux", "Postman", "VS Code"],
-      design: ["Figma", "Adobe XD", "Photoshop", "Canva"]
+      tools: ["Git", "Docker", "AWS", "Linux", "Postman", "VS Code"]
     };
   }
 }
@@ -191,19 +190,19 @@ console.log("Welcome to my GitHub! 🚀");
 ### 💻 Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
 </a>
 <a href="https://www.python.org" target="_blank">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
 </a>
 <a href="https://www.java.com" target="_blank">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
 </a>
 <a href="https://cplusplus.com/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,php,bash,powershell" />
@@ -213,10 +212,10 @@ console.log("Welcome to my GitHub! 🚀");
 ### 🎨 Frontend Development
 
 <a href="https://react.dev/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
 </a>
 <a href="https://redux.js.org" target="_blank">
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,angular,svelte,tailwind,bootstrap,materialui,jquery,threejs,webpack,vite" />
@@ -226,13 +225,13 @@ console.log("Welcome to my GitHub! 🚀");
 ### ⚙️ Backend Development
 
 <a href="https://nodejs.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
 </a>
 <a href="https://expressjs.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
 </a>
 <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,graphql,nestjs,nginx" />
@@ -242,13 +241,13 @@ console.log("Welcome to my GitHub! 🚀");
 ### 🗄️ Databases
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
 </a>
 <a href="https://www.postgresql.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=redis,firebase,supabase,sqlite,prisma" />
@@ -258,13 +257,13 @@ console.log("Welcome to my GitHub! 🚀");
 ### ☁️ Cloud & DevOps
 
 <a href="https://aws.amazon.com" target="_blank">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
 </a>
 <a href="https://kubernetes.io" target="_blank">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=gcp,azure,vercel,netlify,heroku,jenkins,githubactions,terraform" />
@@ -274,25 +273,19 @@ console.log("Welcome to my GitHub! 🚀");
 ### 🛠️ Tools & Technologies
 
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 </a>
 <a href="https://github.com/" target="_blank">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
 </a>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,sublime,vim,postman,linux,ubuntu,windows,figma,xd,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,sublime,vim,postman,linux,ubuntu,windows" />
 
 <br><br>
 
 ### 📱 Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,react" />
-
-<br><br>
-
-### 🤖 AI/ML & Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 <br>
 
@@ -391,24 +384,6 @@ const currentStatus = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="left">
 
-## 💬 Random Dev Quote
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="right">
-
-<br>
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
-
-</div>
-
-<br>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="left">
-
 ## 🌐 Connect With Me
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="right">
@@ -430,28 +405,23 @@ const currentStatus = {
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="left">
+
+## 💬 Random Dev Quote
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="right">
+
+<br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
-### 💖 Show Some Love
-
-**If you find my work interesting, please consider:**
-- ⭐ Starring my repositories
-- 🔔 Following me on GitHub
-- 🤝 Connecting on LinkedIn
+</div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br>
-
-### "First, solve the problem. Then, write the code." — John Johnson
-
-<br>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
