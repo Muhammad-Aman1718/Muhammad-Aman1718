@@ -1,105 +1,5 @@
-<!-- <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-aman171/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ag3734359@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Aman1718.Muhammad-Aman1718&"  />
-</div>
-
-###
-
-<h1 align="left">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi, I'm Muhammad Aman.<br><br>- 🔭 I’m working as a web developer. <br>- 📚 I'm currently learning new things about web-development.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-
-###
-
-<img src="https://raw.githubusercontent.com/Muhammad-Aman1718/Muhammad-Aman1718/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Aman1718&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Aman1718&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Aman1718&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-### -->
-
-
+<!--
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Aman&fontSize=42&fontAlignY=25&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=18&descAlignY=51&animation=twinkling"/>
@@ -425,4 +325,192 @@ const currentStatus = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
+</div> -->
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Aman&fontSize=42&fontAlignY=25&desc=Software%20Developer%20|%20Full%20Stack%20Engineer&descSize=18&descAlignY=51&animation=twinkling"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Aman1718&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Muhammad-Aman1718)
+[![GitHub followers](https://img.shields.io/github/followers/Muhammad-Aman1718?style=flat&color=0e75b6)](https://github.com/Muhammad-Aman1718)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const developer = {
+  name: "Muhammad Aman",
+  location: "Pakistan 🇵🇰",
+  role: "Full Stack Developer",
+  currentFocus: ["System Design", "Cloud Architecture", "Clean Code"],
+  languages: ["JavaScript", "TypeScript", "Python", "Java"],
+  interests: ["Web3", "AI/ML", "DevOps"]
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<sub>Crafting seamless web & mobile experiences with modern tools 🚀</sub>
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Frontend & Languages
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui" /><br>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Databases
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,nestjs,graphql" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite,prisma" />
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,docker,kubernetes,nginx,githubactions" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile App Development
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio,kotlin" /><br>
+<sub><b>React Native</b> for cross-platform apps 📱✨</sub>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 Tools & Environment
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu,bash,powershell" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Data Structures & Algorithms (DSA)
+<div align="center">
+
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=plastic&logo=HackerRank&logoColor=black" alt="HackerRank" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white" alt="Codeforces" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=plastic&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+🌟 *Every tool represents a step toward cleaner code, smoother UI, and better performance.* 🌟
+</div>
+
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Main Stats Row -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Aman1718&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Aman1718&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook" />
+
+<br><br>
+
+<!-- Streak Stats Full Width -->
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Aman1718&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Aman1718&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF&title_color=00FFFF&area=true&hide_border=true" />
+
+<br><br>
+
+<!-- Bottom Row: Trophies & Contributor Stats -->
+<table>
+  <tr>
+    <td width="60%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/api?username=Muhammad-Aman1718&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Aman1718&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
