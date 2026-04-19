@@ -9,7 +9,6 @@
 
 </div>
 
- 
 
 ## 👨‍💻 About Me
 
@@ -24,7 +23,6 @@ const developer = {
 };
 ```
 
- 
 
 ## 🛠️ Tech Arsenal
 
