@@ -160,6 +160,11 @@ def fmt_date(iso, with_year=True):
     return d.strftime("%b %-d, %Y") if with_year else d.strftime("%b %-d")
 
 
+def fmt_range(start, end):
+    a, b = dt.date.fromisoformat(start), dt.date.fromisoformat(end)
+    return f"{fmt_date(start, a.year != b.year)} – {fmt_date(end)}"
+
+
 def streaks(days, today):
     ordered = sorted(days)
     longest, run, run_start = (0, None, None), 0, None
@@ -237,9 +242,9 @@ def render_streak(data):
 </g>"""
 
     cur_sub = (
-        f"{fmt_date(cur_from, False)} – {fmt_date(cur_to, False)}" if current else "Start a new streak today!"
+        fmt_range(cur_from, cur_to) if current else "Start a new streak today!"
     )
-    best_sub = f"{fmt_date(best_from, False)} – {fmt_date(best_to)}" if best else "—"
+    best_sub = fmt_range(best_from, best_to) if best else "—"
     ring = 2 * math.pi * 46
 
     body = f"""
