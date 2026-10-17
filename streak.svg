@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#141a33"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1">
+    <stop offset="0" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+  </radialGradient>
+  
+</defs>
+<style>
+  text { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+  .title { font-size: 15px; font-weight: 700; fill: url(#accent); letter-spacing: .4px; }
+  .label { font-size: 11px; font-weight: 600; fill: #8b98b8; letter-spacing: 1.2px; }
+  .muted { fill: #8b98b8; }
+  .fade { animation: fade .7s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  
+  .ring { animation: ring 1.4s .3s cubic-bezier(.3,.7,.3,1) backwards; }
+  @keyframes ring { from { stroke-dashoffset: 289.0; } }
+  .flame { animation: flicker 1.6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes flicker { 0%,100% { transform: scale(1); } 50% { transform: scale(1.18) rotate(-4deg); } }
+
+</style>
+<rect x=".5" y=".5" width="999" height="209" rx="16" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="999" height="209" rx="16" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="999" height="209" rx="16" stroke="url(#accent)" stroke-opacity=".45"/>
+
+<text x="28" y="36" class="title">🔥 CONTRIBUTION STREAK</text>
+<line x1="333.3333333333333" y1="62" x2="333.3333333333333" y2="170" stroke="#2a3354"/>
+<line x1="666.6666666666666" y1="62" x2="666.6666666666666" y2="170" stroke="#2a3354"/>
+<g class="fade" style="animation-delay:0.10s">
+  <text x="166.66666666666666" y="92" text-anchor="middle" class="mono" font-size="40" font-weight="800" fill="#22d3ee">1,583</text>
+  <text x="166.66666666666666" y="124" text-anchor="middle" class="label">TOTAL CONTRIBUTIONS</text>
+  <text x="166.66666666666666" y="150" text-anchor="middle" font-size="12" class="muted">Feb 17, 2025 – Present</text>
+</g>
+<g transform="translate(500.0 104)">
+  <circle r="46" stroke="#2a3354" stroke-width="7"/>
+  <circle r="46" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" transform="rotate(-90)"
+          stroke-dasharray="289.0" class="ring"/>
+  <circle cy="-46" r="15" fill="#0b1020"/>
+  <text y="-39" text-anchor="middle" font-size="19" fill="#e6edf3" class="flame">🔥</text>
+  <text y="13" text-anchor="middle" class="mono fade" font-size="36" font-weight="800" fill="#e6edf3" style="animation-delay:0.26s">481</text>
+</g>
+<text x="500.0" y="178" text-anchor="middle" class="label fade" style="animation-delay:0.34s">CURRENT STREAK</text>
+<text x="500.0" y="197" text-anchor="middle" font-size="12" class="muted fade" style="animation-delay:0.42s">Jun 24, 2025 – Oct 17, 2026</text>
+<g class="fade" style="animation-delay:0.18s">
+  <text x="833.3333333333333" y="92" text-anchor="middle" class="mono" font-size="40" font-weight="800" fill="#f472b6">481</text>
+  <text x="833.3333333333333" y="124" text-anchor="middle" class="label">LONGEST STREAK</text>
+  <text x="833.3333333333333" y="150" text-anchor="middle" font-size="12" class="muted">Jun 24, 2025 – Oct 17, 2026</text>
+</g>
+
+</svg>

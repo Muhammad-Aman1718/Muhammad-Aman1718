@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="230" viewBox="0 0 495 230" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#141a33"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1">
+    <stop offset="0" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+  </radialGradient>
+  
+</defs>
+<style>
+  text { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+  .title { font-size: 15px; font-weight: 700; fill: url(#accent); letter-spacing: .4px; }
+  .label { font-size: 11px; font-weight: 600; fill: #8b98b8; letter-spacing: 1.2px; }
+  .muted { fill: #8b98b8; }
+  .fade { animation: fade .7s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  
+</style>
+<rect x=".5" y=".5" width="494" height="229" rx="16" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="494" height="229" rx="16" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="494" height="229" rx="16" stroke="url(#accent)" stroke-opacity=".45"/>
+<text x="24" y="36" class="title">📊 GITHUB STATS</text>
+<g class="fade" style="animation-delay:0.10s">
+  <rect x="24" y="58" width="216" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#22d3ee" stroke-opacity=".25"/>
+  <text x="38" y="87" font-size="17" fill="#e6edf3">⚡</text>
+  <text x="68" y="78" class="label" font-size="10">CONTRIBUTIONS</text>
+  <text x="68" y="96" class="mono" font-size="17" font-weight="800" fill="#22d3ee">1,583</text>
+</g>
+<g class="fade" style="animation-delay:0.18s">
+  <rect x="254" y="58" width="216" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#a78bfa" stroke-opacity=".25"/>
+  <text x="268" y="87" font-size="17" fill="#e6edf3">📝</text>
+  <text x="298" y="78" class="label" font-size="10">COMMITS</text>
+  <text x="298" y="96" class="mono" font-size="17" font-weight="800" fill="#a78bfa">1,539</text>
+</g>
+<g class="fade" style="animation-delay:0.26s">
+  <rect x="24" y="114" width="216" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#f472b6" stroke-opacity=".25"/>
+  <text x="38" y="143" font-size="17" fill="#e6edf3">🔀</text>
+  <text x="68" y="134" class="label" font-size="10">PULL REQUESTS</text>
+  <text x="68" y="152" class="mono" font-size="17" font-weight="800" fill="#f472b6">12</text>
+</g>
+<g class="fade" style="animation-delay:0.34s">
+  <rect x="254" y="114" width="216" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#34d399" stroke-opacity=".25"/>
+  <text x="268" y="143" font-size="17" fill="#e6edf3">📦</text>
+  <text x="298" y="134" class="label" font-size="10">PUBLIC REPOS</text>
+  <text x="298" y="152" class="mono" font-size="17" font-weight="800" fill="#34d399">29</text>
+</g>
+<g class="fade" style="animation-delay:0.42s">
+  <rect x="24" y="170" width="216" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#fbbf24" stroke-opacity=".25"/>
+  <text x="38" y="199" font-size="17" fill="#e6edf3">⭐</text>
+  <text x="68" y="190" class="label" font-size="10">STARS EARNED</text>
+  <text x="68" y="208" class="mono" font-size="17" font-weight="800" fill="#fbbf24">1</text>
+</g>
+<g class="fade" style="animation-delay:0.50s">
+  <rect x="254" y="170" width="216" height="46" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#22d3ee" stroke-opacity=".25"/>
+  <text x="268" y="199" font-size="17" fill="#e6edf3">👥</text>
+  <text x="298" y="190" class="label" font-size="10">FOLLOWERS</text>
+  <text x="298" y="208" class="mono" font-size="17" font-weight="800" fill="#22d3ee">3</text>
+</g>
+</svg>
