@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="230" viewBox="0 0 495 230" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#141a33"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1">
+    <stop offset="0" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+  </radialGradient>
+  
+</defs>
+<style>
+  text { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+  .title { font-size: 15px; font-weight: 700; fill: url(#accent); letter-spacing: .4px; }
+  .label { font-size: 11px; font-weight: 600; fill: #8b98b8; letter-spacing: 1.2px; }
+  .muted { fill: #8b98b8; }
+  .fade { animation: fade .7s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  
+  .grow { transform-origin: 24px 0; animation: grow 1.2s .2s cubic-bezier(.3,.7,.3,1) backwards; }
+  @keyframes grow { from { transform: scaleX(0); } }
+
+</style>
+<rect x=".5" y=".5" width="494" height="229" rx="16" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="494" height="229" rx="16" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="494" height="229" rx="16" stroke="url(#accent)" stroke-opacity=".45"/>
+<text x="24" y="36" class="title">💻 MOST USED LANGUAGES</text>
+<clipPath id="bar"><rect x="24" y="56" width="447" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="24" y="56" width="447" height="10" fill="#2a3354"/><g class="grow"><rect x="24.0" y="56" width="156.0" height="10" fill="#f1e05a"/><rect x="180.0" y="56" width="140.2" height="10" fill="#3178c6"/><rect x="320.2" y="56" width="108.4" height="10" fill="#3572A5"/><rect x="428.7" y="56" width="18.8" height="10" fill="#c6538c"/><rect x="447.5" y="56" width="16.5" height="10" fill="#e34c26"/><rect x="464.0" y="56" width="5.1" height="10" fill="#663399"/><rect x="469.1" y="56" width="1.2" height="10" fill="#336790"/><rect x="470.3" y="56" width="0.7" height="10" fill="#89e051"/></g></g>
+<g class="fade" style="animation-delay:0.40s">
+  <circle cx="30" cy="94" r="5" fill="#f1e05a"/>
+  <text x="44" y="98" font-size="13" fill="#e6edf3">JavaScript</text>
+  <text x="225" y="98" text-anchor="end" class="mono muted" font-size="12">34.9%</text>
+</g>
+<g class="fade" style="animation-delay:0.48s">
+  <circle cx="255" cy="94" r="5" fill="#3178c6"/>
+  <text x="269" y="98" font-size="13" fill="#e6edf3">TypeScript</text>
+  <text x="450" y="98" text-anchor="end" class="mono muted" font-size="12">31.4%</text>
+</g>
+<g class="fade" style="animation-delay:0.56s">
+  <circle cx="30" cy="124" r="5" fill="#3572A5"/>
+  <text x="44" y="128" font-size="13" fill="#e6edf3">Python</text>
+  <text x="225" y="128" text-anchor="end" class="mono muted" font-size="12">24.3%</text>
+</g>
+<g class="fade" style="animation-delay:0.64s">
+  <circle cx="255" cy="124" r="5" fill="#c6538c"/>
+  <text x="269" y="128" font-size="13" fill="#e6edf3">SCSS</text>
+  <text x="450" y="128" text-anchor="end" class="mono muted" font-size="12">4.2%</text>
+</g>
+<g class="fade" style="animation-delay:0.72s">
+  <circle cx="30" cy="154" r="5" fill="#e34c26"/>
+  <text x="44" y="158" font-size="13" fill="#e6edf3">HTML</text>
+  <text x="225" y="158" text-anchor="end" class="mono muted" font-size="12">3.7%</text>
+</g>
+<g class="fade" style="animation-delay:0.80s">
+  <circle cx="255" cy="154" r="5" fill="#663399"/>
+  <text x="269" y="158" font-size="13" fill="#e6edf3">CSS</text>
+  <text x="450" y="158" text-anchor="end" class="mono muted" font-size="12">1.1%</text>
+</g>
+<g class="fade" style="animation-delay:0.88s">
+  <circle cx="30" cy="184" r="5" fill="#336790"/>
+  <text x="44" y="188" font-size="13" fill="#e6edf3">PLpgSQL</text>
+  <text x="225" y="188" text-anchor="end" class="mono muted" font-size="12">0.3%</text>
+</g>
+<g class="fade" style="animation-delay:0.96s">
+  <circle cx="255" cy="184" r="5" fill="#89e051"/>
+  <text x="269" y="188" font-size="13" fill="#e6edf3">Shell</text>
+  <text x="450" y="188" text-anchor="end" class="mono muted" font-size="12">0.2%</text>
+</g>
+</svg>
